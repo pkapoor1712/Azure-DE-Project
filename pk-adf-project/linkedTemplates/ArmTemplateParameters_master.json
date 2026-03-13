@@ -1,0 +1,42 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "pk-adf-project"
+		},
+		"AzureDatabricks1_accessToken": {
+			"value": ""
+		},
+		"ls_datalake_accountKey": {
+			"value": ""
+		},
+		"ls_sqldatabase_password": {
+			"value": ""
+		},
+		"AzureDatabricks1_properties_typeProperties_existingClusterId": {
+			"value": "0311-115057-l0draqor"
+		},
+		"ls_datalake_properties_typeProperties_url": {
+			"value": "https://pkcarstorageacc.dfs.core.windows.net/"
+		},
+		"ls_github_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/"
+		},
+		"ls_sqldatabase_properties_typeProperties_server": {
+			"value": "pkcarsaleserver.database.windows.net"
+		},
+		"ls_sqldatabase_properties_typeProperties_database": {
+			"value": "carsales"
+		},
+		"ls_sqldatabase_properties_typeProperties_userName": {
+			"value": "pkadmin"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
