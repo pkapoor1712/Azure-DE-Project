@@ -1,0 +1,4 @@
+Branch_ID,Dealer_ID,Model_ID,Revenue,Units_Sold,Date_ID,Day,Month,Year,BranchName,DealerName,Product_Name
+XYZ9726,XYZ0063,ZYXM13,22372413,3,DT01247,31,5,2020,DataFam Motors,Datafam Dealers,Surprise0
+XYZ9727,XYZ0064,ZYXM14,22372414,3,DT01248,34,5,2020,DataFam1 Motors1,Datafam1 Dealers1,Surprise1
+XYZ9728,XYZ0065,ZYXM15,22372415,3,DT01249,35,5,2020,DataFam2 Motors2,Datafam2 Dealers2,Surprise2
