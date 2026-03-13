@@ -1,0 +1,9 @@
+{
+	"name": "pk-adf-project",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "888d7ca0-49eb-4b44-b938-51f48b7b837e",
+		"tenantId": "f0da5fda-f9f4-45bf-a50b-3cf3e9c7f492"
+	}
+}
